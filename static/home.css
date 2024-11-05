@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.part1{
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.navbar{
+    height: 80px;
+}
+
+.submenu{
+    width: 50%;
+    background-color: black;
+    height: 100vh;
+    margin-left: 0px;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.carousel{
+    height: 80vh;
+    width:100% ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.shop{
+    padding: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin-bottom: 50px;
+}
